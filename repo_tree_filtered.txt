@@ -1,0 +1,12 @@
+﻿
+FullName                                                 
+--------                                                 
+C:\dev\rsl-roster-analysis-toolkit\.gitattributes        
+C:\dev\rsl-roster-analysis-toolkit\.gitignore            
+C:\dev\rsl-roster-analysis-toolkit\LICENSE               
+C:\dev\rsl-roster-analysis-toolkit\pyproject.toml        
+C:\dev\rsl-roster-analysis-toolkit\README.md             
+C:\dev\rsl-roster-analysis-toolkit\repo_tree.txt         
+C:\dev\rsl-roster-analysis-toolkit\repo_tree_filtered.txt
+
+
